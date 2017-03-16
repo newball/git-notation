@@ -1,4 +1,5 @@
 #Git Notation
+*Version 0.8*
 
 Git Notation is a project aimed at improving commit messages to easily sort through commit messages, find specific issues, and better manage what has been done throughout the course of a projects lifespan.
 
@@ -35,3 +36,7 @@ The recommendation is to use the Git Notation flag, followed by a space, taking 
 - ~ (squiggly symbol): the (squiggly) symbol indicates a change. Think of this as a combination of + and -. Often, in the development process, there are changes to code that isn’t merely an addition or a removal, it’s a new way of thinking or processing data. This is really important when a function or feature has been depreciated. This notation should be used when indicating these changes and depreciations. 
 - ! (Exclamation mark): the exclamation mark indicates a fix to a bug/issue or comment. This is different than the change, as it points directly to an issue or comment that has been raised in the development process. Think of this as a way of directly responding to things that arise in the development process.
 - \* (star symbol): the star symbol indicates a comment. Use this to comment in a project what ever one feels is relevant. Some of these comments can be as simple as indicating the first commit or a notation that's important to the project development.
+
+## Changelog
+- 3/16/17: Version 0.8: Initial Beta version of Git Notation solidified, and posted to GitHub
+- 3/1/17: Versions 0.1 - 0.7: Initial version of Git Notation outlined, explained and drawn up.
