@@ -19,12 +19,12 @@ Here are some current examples of what a few git commit messages look like in Wo
 
 By using my suggestion of Git Notation, these commits would look like this:
 
-- \+ Themes: enable browser history support in add new theme screen. https://github.com/WordPress/WordPress/commit/33286df4c10f9db9e438ded1b074a0c6463c6863
+- \+ Themes: enable browser history support in add new theme screen.
 - \- About page: Remove `autoplay` and `loop` attributes on "Theme Starter Content", "Edit Shortcuts", and "Video Headers" videos, originally added as a part of [39512].
-- \- REST API: Do not allow access to users from a different site in multisite. https://github.com/WordPress/WordPress/commit/eb8457d3f489e51bc457604a7744d8eb541707ae
-- ~ Taxonomy: Improve 'Parent' label when editing taxonomy terms. https://github.com/WordPress/WordPress/commit/b6572af5d227103f185e5646394644837755a694
-- \! REST API: Fix multiple issues with setting dates of posts and comments. https://github.com/WordPress/WordPress/commit/b6ce4e283080332525bb276e2bacaf566c4a9b5c
-- \* FINALLY https://github.com/WordPress/WordPress/commit/a939c7571a9a3f833180f83c7e084b78b26a2b83
+- \- REST API: Do not allow access to users from a different site in multisite.
+- ~ Taxonomy: Improve 'Parent' label when editing taxonomy terms.
+- \! REST API: Fix multiple issues with setting dates of posts and comments.
+- \* FINALLY
 
 ## Specification Detail
 
