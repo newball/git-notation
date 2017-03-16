@@ -28,7 +28,7 @@ By using my suggestion of Git Notation, these commits would look like this:
 
 ## Specification Detail
 
-The recommendation is to use the Git Notation flag, followed by a space, taking up no more than the first two characters of a commit message. After these three characters, simply write the rest of your commit message as normal, using your preferred commit notation standards.
+The recommendation is to use the Git Notation flag, followed by a space, taking up no more than the first two characters of a commit message. After these two characters, simply write the rest of your commit message as normal, using your preferred commit notation standards.
 
 - \+ (plus symbol): the plus symbol indicates an addition and can include any sort of addition such as: new features, files, functions, etc. The idea here is to indicate something has been added to the project.
 - \- (minus symbol): the minus symbol indicates a removal and can include any sort of removal such as: removing a feature, files, function, etc. The idea here is to indicate something has been removed from the project.
